@@ -5,7 +5,7 @@ Dataset has been collected from social medias (facebook, intagram, tiktok, youtu
 https://drive.google.com/drive/folders/1WnYyEzhamgzodceLkuQlrK-JPDQVFjKB?usp=drive_link
 
   Path: Colab Notebooks/private-data/image/dataset/
-## Training Deep Learning's model   are available here:
+## Training Deep Learning models   are available here:
 https://drive.google.com/drive/folders/1WnYyEzhamgzodceLkuQlrK-JPDQVFjKB?usp=drive_link
 
   Path: Colab Notebooks/private-data/models/
