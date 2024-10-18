@@ -1,7 +1,7 @@
 # cyberbullying-classification-private-data
 Dataset has been collected from social medias (facebook, intagram, tiktok, youtube) short video's comments.
 
-## dataset are available here:
+## Datasets are available here:
 https://drive.google.com/drive/folders/1WnYyEzhamgzodceLkuQlrK-JPDQVFjKB?usp=drive_link
 
   Path: Colab Notebooks/private-data/image/dataset/
